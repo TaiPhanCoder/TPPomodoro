@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ẩn thanh cuộn cho toàn bộ trang */
+html, body {
+    overflow: hidden;
+  }
+
+  .toggle-checkbox:checked {
+    @apply right-0 border-blue-400;
+    right: 0;
+    border-color: #2563eb;
+  }
+  
+  .toggle-checkbox:checked + .toggle-label {
+    @apply bg-blue-400;
+    background-color: #2563eb;
+  }
+  
