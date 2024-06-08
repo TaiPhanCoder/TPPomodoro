@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TPPomodoro/static/css/main.f3138a56.css",
+    "main.js": "/TPPomodoro/static/js/main.f8f45b29.js",
+    "static/media/logo.png": "/TPPomodoro/static/media/logo.a6cf1a0ceb60fc7a6ea2.png",
+    "index.html": "/TPPomodoro/index.html",
+    "main.f3138a56.css.map": "/TPPomodoro/static/css/main.f3138a56.css.map",
+    "main.f8f45b29.js.map": "/TPPomodoro/static/js/main.f8f45b29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3138a56.css",
+    "static/js/main.f8f45b29.js"
+  ]
+}
